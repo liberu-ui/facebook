@@ -17,9 +17,9 @@
     "author": "Adrian Ocneanu <aocneanu@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://git.xtelecom.ro/enso-ui/facebook/issues"
+        "url": "https://github.com/enso-ui/facebook/issues"
     },
-    "homepage": "https://git.xtelecom.ro/enso-ui/facebook#readme",
+    "homepage": "https://github.com/enso-ui/facebook#readme",
     "dependencies": {
         "@enso-ui/loader": "^2.0",
         "@enso-ui/mixins": "^2.0",
