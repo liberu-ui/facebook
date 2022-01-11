@@ -11,12 +11,12 @@
 </template>
 
 <script>
-import { EnsoForm, FormField } from '@enso-ui/forms/bulma';
+import { EnsoForm } from '@enso-ui/forms/bulma';
 
 export default {
     name: 'Index',
 
-    components: { EnsoForm, FormField },
+    components: { EnsoForm },
 
     data: () => ({
         form: null,
