@@ -1,6 +1,6 @@
 {
     "name": "@enso-ui/facebook",
-    "version": "2.0.6",
+    "version": "3.0.0",
     "description": "facebook package",
     "main": "src/bulma/pages/facebook/Index.vue",
     "scripts": {
