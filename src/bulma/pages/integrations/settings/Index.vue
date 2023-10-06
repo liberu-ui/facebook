@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { EnsoForm } from '@enso-ui/forms/bulma';
+import { EnsoForm } from '@liberu-ui/forms/bulma';
 
 export default {
     name: 'Index',

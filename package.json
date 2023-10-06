@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/enso-ui/facebook.git"
+        "url": "git+https://github.com/liberu-ui/facebook.git"
     },
     "keywords": [
         "facebook",
@@ -17,9 +17,9 @@
     "author": "Adrian Ocneanu <aocneanu@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/enso-ui/facebook/issues"
+        "url": "https://github.com/liberu-ui/facebook/issues"
     },
-    "homepage": "https://github.com/enso-ui/facebook#readme",
+    "homepage": "https://github.com/liberu-ui/facebook#readme",
     "dependencies": {
         "@liberu-ui/forms": "^3.0",
         "@liberu-ui/ui": "^6.0",
